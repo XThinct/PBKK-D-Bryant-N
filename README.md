@@ -1,2 +1,2 @@
 Nama : Bryant Nathaniel Tanujaya
-NRP " 5025221175
+NRP : 5025221175
