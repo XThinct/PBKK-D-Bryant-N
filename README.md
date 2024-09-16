@@ -17,10 +17,10 @@ NRP : 5025221175
 <img width="1249" alt="ContactPage-1" src="https://github.com/user-attachments/assets/126cb81c-5bbb-4a01-afe8-a1833ec34952">
 Menambahkan link kontak pada Contact Page
 
-`Hover pada Profile`
+`Hover pada Profile` <br>
 <img width="207" alt="HoverProfile-1" src="https://github.com/user-attachments/assets/f3183b71-1ec3-4be8-ad11-5f7ed55026b0">
 
-`Mobile View`
+`Mobile View` <br>
 <img width="338" alt="MobileView-1" src="https://github.com/user-attachments/assets/4512f830-25dc-4d4c-81ba-2f39b4c72757">
 
 
