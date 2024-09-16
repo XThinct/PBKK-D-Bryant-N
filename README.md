@@ -4,7 +4,7 @@ NRP : 5025221175
 
 ## Instalasi dan konfigurasi, Struktur Folder, Blade, dan Blade Component
 
-`Home Page `
+`Home Page`
 <img width="1247" alt="HomePage-1" src="https://github.com/user-attachments/assets/34160eec-fae4-42f0-92d0-be6e2dc101cc">
 
 `About Page`
