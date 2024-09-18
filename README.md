@@ -26,6 +26,12 @@ Menambahkan link kontak pada Contact Page
 
 # View Data dan Model
 
+`Update on Blog Page`
+<img width="1250" alt="BlogPage-2" src="https://github.com/user-attachments/assets/7e500657-f5d6-4da5-8e49-7271cee3a886">
+
+`Added single blog post`
+<img width="1247" alt="BlogPage-2(readmore)" src="https://github.com/user-attachments/assets/54721e7d-783f-40cc-8663-4f7f7ad6cc04">
+
 
 
 
