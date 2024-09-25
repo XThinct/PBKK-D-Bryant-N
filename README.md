@@ -32,6 +32,14 @@ Menambahkan link kontak pada Contact Page
 `Added single blog post`
 <img width="1247" alt="BlogPage-2(readmore)" src="https://github.com/user-attachments/assets/54721e7d-783f-40cc-8663-4f7f7ad6cc04">
 
+# Database Migration, Eloquent ORM and Post Model
+
+`Update on Blog Page : Use Data Migration and Added Created Time for the Posts`
+<img width="1247" alt="BlogPage-3" src="https://github.com/user-attachments/assets/47aec253-96ca-44b5-983e-d802c32093a3">
+
+`Update on Blog Single Post : Use Data Migration and Added Created Time for the Post`
+<img width="1247" alt="BlogPage-3(readmore)" src="https://github.com/user-attachments/assets/de152682-dd57-4f19-9a8f-e86646f0f141">
+
 
 
 
