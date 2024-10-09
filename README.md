@@ -40,7 +40,15 @@ Menambahkan link kontak pada Contact Page
 `Update on Blog Single Post : Use Data Migration and Added Created Time for the Post`
 <img width="1247" alt="BlogPage-3(readmore)" src="https://github.com/user-attachments/assets/de152682-dd57-4f19-9a8f-e86646f0f141">
 
+# Model Factories, Eloquent Relationship, and Database Seeder
 
+`update on Blog Page : added author , categories and articles`
+<img width="1280" alt="BlogPage-4" src="https://github.com/user-attachments/assets/821b8684-2670-4640-bb1f-af0765e7fbdc">
 
+`Update on Blog Page : added categories section for the articles`
+<img width="1280" alt="BlogPage-4(Categories)" src="https://github.com/user-attachments/assets/9655a38b-c475-4b0d-aed2-5ece4b1b8015">
+
+`update on Blog Page : added authors section for the articles`
+<img width="1280" alt="BlogPage-4(Articles By)" src="https://github.com/user-attachments/assets/f057c032-6bbc-4cf8-bd00-8a16d38d1b54">
 
 
