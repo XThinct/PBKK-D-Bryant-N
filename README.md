@@ -42,7 +42,7 @@ Menambahkan link kontak pada Contact Page
 
 # Model Factories, Eloquent Relationship, and Database Seeder
 
-`update on Blog Page : added author , categories and articles`
+`update on Blog Page : added author, categories, and articles`
 <img width="1280" alt="BlogPage-4" src="https://github.com/user-attachments/assets/821b8684-2670-4640-bb1f-af0765e7fbdc">
 
 `Update on Blog Page : added categories section for the articles`
@@ -50,5 +50,21 @@ Menambahkan link kontak pada Contact Page
 
 `update on Blog Page : added authors section for the articles`
 <img width="1280" alt="BlogPage-4(Articles By)" src="https://github.com/user-attachments/assets/f057c032-6bbc-4cf8-bd00-8a16d38d1b54">
+
+# N+1 Problems, Redesign UI, Searching, Pagination
+
+`update on Blog Page : added debug bar, redesign UI, search bar, and pagination` 
+<img width="1280" alt="BlogPage-5" src="https://github.com/user-attachments/assets/ef1c70a1-3cd8-47ac-88c8-bc45dd17eb6b">
+
+`update on Blog Page : redesign UI for author section`
+<img width="1280" alt="BlogPage-5(Author)" src="https://github.com/user-attachments/assets/2fd46e05-a6c2-469b-8fa5-cdb879bf0148">
+
+`update on Blog Page : redesign UI for categories section`
+<img width="1280" alt="BlogPage-5(Categories)" src="https://github.com/user-attachments/assets/3e9ec7bb-4e78-48a1-875f-3d4c356e374f">
+
+`update on Blog Page : redesign UI for single post`
+<img width="1280" alt="BlogPage-5(read more)" src="https://github.com/user-attachments/assets/c3003a8f-1171-455e-97a3-1b7df485934c">
+
+
 
 
